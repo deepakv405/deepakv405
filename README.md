@@ -8,7 +8,7 @@
 ### 🛠️ Skills & Interests
 
 - 💻 **Programming:** C, Python (beginner), MATLAB (basic)
-- 🛠️ **Engineering Tools:** AutoCAD, SolidWorks (learning), ANSYS (basic)
+- 🛠️ **Engineering Tools:** AutoCAD, SolidWorks (learning), blender 3d
 - ⚙️ **Interests:** Robotics, Mechatronics, 3D Design, Control Systems, Coding small utilities
 - 📚 Currently learning: Data Structures, Python projects, Arduino-based automation
 
@@ -24,9 +24,8 @@
 
 ### 📫 How to Reach Me
 
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/your-username](https://linkedin.com/in/your-username) *(Replace with your actual link)*
-- 🛠️ GitHub: [github.com/deepakkumar](https://github.com/deepakkumar) *(Replace if needed)*
+- 📧 Email: [thedeepqk@gmail.com]
+- 🛠️ GitHub: [github.com/deepakkumar](https://github.com/deepakv405) *(Replace if needed)*
 
 ---
 
